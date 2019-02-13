@@ -1,8 +1,10 @@
 # Hackintosh_Envy13_10.13.6/10.14
+前言：**_社区共同开发成果，希望用于个人DIY和技术交流，不得用于商业用途，淘宝贩子还请绕道！_** 
 
 ## 适用于Hp Envy13 ad1xxx 
 ![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6-10.14/blob/master/Pictures/QQ20190213-145037%402x.png)
 LZ都Envy13配置为i5 8250u + uhd620 + 8G + 256G + Bcm94352z，理论上7代及以上CPU版本惠普电脑都适用，其它适配可以进群讨论（群号在最下面）。
+
 
 ### 开启HIDPI
 * 项目原地址: [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi)
@@ -38,5 +40,5 @@ SSDT-HDEF.aml```对应位置的ID，可用的还有13，28
 2. 不同BIOS版本出的问题不一样，有的睡眠后不出声音，有的蓝牙和Wi-Fi失效
 
 ### 交流群
-* Envy13(2017)交流群：247548827
-* 惠普电脑Mac交流群：543758684
+* Envy13(2017)交流群：[247548827](https://jq.qq.com/?_wv=1027&k=5lZnwck)
+* 惠普电脑Mac交流群：[543758684](https://jq.qq.com/?_wv=1027&k=5DaEwE0)
