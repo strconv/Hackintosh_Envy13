@@ -17,11 +17,10 @@ SSDT-HDEF.aml```对应位置的ID，可用的还有13，28
 ```
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
-#### 修复睡眠/盒盖显示不正常：<br>
-
-  先下载
-  https://github.com/daliansky/XiaoMi-Pro/blob/master/HIDPI%20for%20Mi%20Pro/install.command
-  然后运行
+#### 修复睡眠/盒盖显示不正常：
+先下载
+https://github.com/daliansky/XiaoMi-Pro/blob/master/HIDPI%20for%20Mi%20Pro/install.command
+然后运行
   
   <br>注：如果开启后开不了机，Clover 开启 -x
 ```
