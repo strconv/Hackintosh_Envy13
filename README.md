@@ -2,10 +2,11 @@
 
 ## 适用于Hp Envy13 ad1xxx 
 ![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6-10.14/blob/master/Pictures/QQ20190213-145037%402x.png)
-i5 8250u + uhd620 + 8G + 256G + Bcm94352z
+LZ都Envy13配置为i5 8250u + uhd620 + 8G + 256G + Bcm94352z，理论上7代及以上CPU版本惠普电脑都适用，其它适配可以进群讨论（群号在最下面）。
 
 ### 开启HIDPI
-#### 安装命令
+* 项目原地址: [Enable macOS HiDPI](https://github.com/xzhih/one-key-hidpi)
+* 一键安装命令：
 ```
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
@@ -29,18 +30,8 @@ SSDT-HDEF.aml```对应位置的ID，可用的还有13，28
 ![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6/blob/master/Pictures/QQ20180919-235329@2x.png)
 
 #### 修复睡眠/盒盖显示不正常：
-下载
-https://github.com/daliansky/XiaoMi-Pro/blob/master/HIDPI%20for%20Mi%20Pro/install.command
-后运行
-  
-  <br>注：如果开启后开不了机，Clover 开启 -x
-```
-$ cd /Volumes/"Your System Disk Part"/System/Library/Displays/Contents/Resources/Overrides
-$ VendorID=$(ioreg -l | grep "DisplayVendorID" | awk '{print $8}')
-$ Vid=$(echo "obase=16;$VendorID" | bc | tr 'A-Z' 'a-z')
-$ rm -rf ./DisplayVendorID-$Vid
-$ cp -r ./backup/* ./
-```
+新建脚本、复制代码：[install.command](https://github.com/daliansky/XiaoMi-Pro/blob/master/HIDPI%20for%20Mi%20Pro/install.command
+)、运行
 
 ### 目前还存在的问题
 1. Windows非正常关机，再引导到MacOS后会长时间读条，强制关机再开机即可
