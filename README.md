@@ -1,4 +1,4 @@
-# Hackintosh_Envy13_10.13.6
+# Hackintosh_Envy13_10.13.6/10.14
 
 ## 适用于Hp Envy13 ad1xxx 
 ![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6/blob/master/Pictures/QQ20180919-233241%402x.png)
@@ -32,8 +32,7 @@ $ rm -rf ./DisplayVendorID-$Vid
 $ cp -r ./backup/* ./
 ```
 
-### 目前还存在的问题：<br>
-1.手动点击睡眠，在开机就变哑巴了，没声音了，蓝牙也跟着GG（无法解决）。<br>
-2.三不时冷启动会开五六分钟的机，进系统也是卡成狗。<br>
-错误日志是NVMe驱动崩溃，解决办法：盒盖一段时间再打开就不卡了。<br>
-另外一个方法就是改SMBIOS里面的机型，至于改什么自己试吧，欢迎交流
+### 目前还存在的问题：
+1. Windows非正常关机，再引导到MacOS后会长时间读条，强制关机再开机即可
+2. 不同BIOS版本出的问题不一样，有的睡眠后不出声音，有的蓝牙和Wifi失效
+
