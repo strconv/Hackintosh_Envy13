@@ -1,6 +1,5 @@
 # Hackintosh_Envy13_10.13.6/10.14
 前言：**_社区共同开发成果，希望用于个人DIY和技术交流，不得用于商业用途，淘宝贩子还请绕道！_** 
-（为防止淘宝店家如此轻松获取，EFI的关键配置文件在本仓库已删除，需要完整版进群技术讨论和免费下载（群在最下方），谢谢。）
 
 ## 适用于Hp Envy13 ad1xxx 
 ![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6-10.14/blob/master/Pictures/QQ20190213-145037%402x.png)
