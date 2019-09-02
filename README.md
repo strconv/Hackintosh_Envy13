@@ -4,7 +4,7 @@
 为防止不良TB店家直接盗用，此处不公开EFI。需要完整且最新版，请**加**页面最下方的**交流群免费获取**、一起交流、参与贡献！（群内有已开发好的惠普其它机型）
 
 * 进群切勿当伸手党，请先自己逛 [黑果小兵](https://blog.daliansky.net/) 和 [远景论坛](http://bbs.pcbeta.com/) ，学习基本安装流程之后自己动手，在群里讨论关键性问题。如果满意，不妨留下你的Strar！
-* 个人博客原文地址：https://ariser.cn/index.php/archives/4/
+* 个人博客原文地址：https://ariser.cn/index.php/archives/3/
 * 简书：https://www.jianshu.com/p/a5e29001ddf5
 
 ### 完美适用于Hp Envy13 2017 ad1xxx 
