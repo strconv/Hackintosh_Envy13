@@ -12,7 +12,7 @@
 
 > 目前适配到10.15，因升级系统后造成的模块出问题，请`重建缓存`后重启(使用Kext Utility)。
 
-![image](https://github.com/ArisHub/Hackintosh_Envy13/blob/master/Pictures/QQ20191012-213829@2x.png)
+![image](https://github.com/ArisHub/Hackintosh_Envy13/blob/master/Pictures/QQ20191012.png)
 LZ的Envy13 2017配置为i5 8250u + uhd620 + 8G + 256G + Bcm94352z，惠普其它型号，可以进群寻找EFI、讨论及共同开发完美版本（群号在最下面）。
 
 ### 亮度快捷键
