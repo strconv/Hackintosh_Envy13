@@ -1,4 +1,4 @@
-### Hackintosh_Envy13_10.13.6-10.14.5
+### Hackintosh_Envy13_10.13.6-10.15
 前言：**_社区共同开发成果，希望用于个人DIY和技术交流，不得用于商业用途，淘宝贩子还请绕道！_** 
 
 为防止不良TB店家直接盗用，此处不公开EFI。需要完整且最新版，请**加**页面最下方的**交流群免费获取**、一起交流、参与贡献！（群内有已开发好的惠普其它机型）
@@ -10,7 +10,7 @@
 ### 完美适用于Hp Envy13 2017 ad1xxx 
 > 目前适配到10.14.5，因升级系统后造成的模块出问题，请`重建缓存`后重启(使用Kext Utility)。
 
-![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6-10.14/blob/master/Pictures/QQ20190213-145037%402x.png)
+![image](https://github.com/ArisHub/Hackintosh_Envy13_10.13.6-10.14/blob/master/Pictures/截屏2019-10-12下午9.26.00.png)
 LZ的Envy13 2017配置为i5 8250u + uhd620 + 8G + 256G + Bcm94352z，惠普其它型号，可以进群寻找EFI、讨论及共同开发完美版本（群号在最下面）。
 
 ### 亮度快捷键
