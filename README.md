@@ -1,5 +1,7 @@
 ### Hackintosh_Envy13_10.13.6-10.15
 
+***[工作原因不再维护哈！请移步墨色大佬repo](https://github.com/SilentSliver/HP-ENVY-13-ad1XX-Hackintosh)，或加底部的交流群！***
+
 前言：**_社区共同开发成果，希望用于个人DIY和技术交流，不得用于商业用途，淘宝贩子还请绕道！_** 
 
 为防止不良TB店家直接盗用，此处不公开EFI。需要完整且最新版，请**加**页面最下方的**交流群免费获取**、一起交流、参与贡献！（群内有已开发好的惠普其它机型）
@@ -53,13 +55,6 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
     ![image](https://github.com/ArisHub/Hackintosh_Envy13/blob/master/Pictures/QQ20190213-150401%402x.png)
 
 > 以上软件在给出的资源网站里面都能找到。
-
-### 声卡
-
-声卡ID用的3，可以驱动下面两个喇叭，声音大一些，四个喇叭同时驱动还在寻找方法
-有了Hotpatch的话，改config里面的ID是没用的，要改 ```/Volumes/EFI/EFI/CLOVER/ACPI/patched``` 下的 ```SSDT-Config.aml``` 和```
-SSDT-HDEF.aml```对应位置的ID，可用的还有13，28
-![image](https://github.com/ArisHub/Hackintosh_Envy13/blob/master/Pictures/QQ20180919-235329@2x.png)
 
 ### 目前还存在的问题
 
